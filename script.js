@@ -9,14 +9,14 @@ $(document).ready(function(){
    }else{
      $("#fccstat").html("FCC Twitch stream is ONline...");
    } 
-});
+  });
   
-var channelList=["ESL_SC2", "OgamingSC2", "cretetion", "freecodecamp", "storbeck", "habathcx", "RobotCaleb", "noobs2ninjas","brunofin" ,"comster404"];
-var channel;
-var channelID;
-var channelLogo;
-var channelLink;
-var streamMSG;
+  var channelList=["ESL_SC2", "OgamingSC2", "cretetion", "freecodecamp", "storbeck", "habathcx", "RobotCaleb", "noobs2ninjas","brunofin" ,"comster404"];
+  var channel;
+  var channelID;
+  var channelLogo;
+  var channelLink;
+  var streamMSG;
 
  
  
